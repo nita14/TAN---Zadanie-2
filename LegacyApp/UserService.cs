@@ -109,7 +109,7 @@ namespace LegacyApp
             //zwracanie wyniku dzialania - poprawne dodanie usera
             return true;
 
-            ///Generalnie metoda AddUser powinna być rozbita na kilka mniejszych pomocniczych
+            ///Generalnie metoda AddUser powinna być rozbita na kilka mniejszych pomocniczych oraz implementacę interfejsu
         }
     }
 }
